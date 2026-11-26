@@ -1,4 +1,9 @@
 {
   "contact_url": "https://t.me/goldavakin",
-  "keys": []
+  "keys": [
+    {
+      "h": "0bdf510593c9aa2081b5ebe9f616d2b3f915c7141a574f56b6ae5d6fa02a5bdb",
+      "exp": 1795731840
+    }
+  ]
 }
