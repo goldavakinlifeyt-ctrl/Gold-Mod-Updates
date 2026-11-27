@@ -1,10 +1,5 @@
 {
   "vip_enabled": true,
   "contact_url": "https://t.me/goldavakin",
-  "keys": [
-    {
-      "h": "3994093a1bb64782f9ef8344bf08d4ed44e5e7e5daa5dbcc0f23fb9ba2bf0a61",
-      "exp": 8.64e+26
-    }
-  ]
+  "keys": []
 }
